@@ -37,7 +37,7 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Backend
 ```bash
@@ -46,21 +46,19 @@ npm install
 npm start
 Runs on: http://localhost:5000
 
-
 Frontend
 cd frontend
 npm install
 npm start
 Runs on: http://localhost:3000
 
-🔐 Authentication Flow
+Authentication Flow
 User registers
 User logs in
 JWT token stored in localStorage
 Protected pages redirect to login if token is missing
 
-
-📌 Future Enhancements
+Future Enhancements
 Payment Gateway Integration
 Admin Dashboard
 Product Filters
