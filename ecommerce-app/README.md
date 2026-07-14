@@ -40,7 +40,6 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 ## How to Run the Project
 
 ### Backend
-```bash
 cd backend
 npm install
 npm start
