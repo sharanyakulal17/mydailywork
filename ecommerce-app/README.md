@@ -1,10 +1,8 @@
-# 🛒 E-Commerce App
+# E-Commerce App
 
 A full-stack e-commerce web application built using **React**, **Node.js**, **Express**, and **MongoDB**.
 
----
-
-## 🚀 Features
+## Features
 
 - User Registration & Login (JWT Authentication)
 - Product Listing
