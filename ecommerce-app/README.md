@@ -40,10 +40,10 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 ## How to Run the Project
 
 ### Backend
-cd backend
-npm install
-npm start
-Runs on: http://localhost:5000
+-cd backend
+-npm install
+-npm start
+-Runs on: http://localhost:5000
 
 Frontend
 cd frontend
