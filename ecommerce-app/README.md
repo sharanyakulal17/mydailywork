@@ -12,9 +12,7 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 - Backend REST APIs
 - MongoDB Database Integration
 
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -29,10 +27,11 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 - JWT
 - bcrypt
 
----
-
-## 📁 Project Structure
-ecommerce-app/ │ ├── frontend/        # React frontend ├── backend/         # Node + Express backend ├── README.md
+## Project Structure
+ecommerce-app/ 
+frontend/        # React frontend 
+backend/         # Node + Express backend 
+README.md
 
 ---
 
