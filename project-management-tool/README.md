@@ -1,10 +1,10 @@
-🗂️ Project Management Tool
-A fun and simple project management app built with React, Node.js, and MongoDB.
-You can create projects, add tasks with deadlines, and track your progress step by step! ✅
+Project Management Tool
+-A fun and simple project management app built with React, Node.js, and MongoDB.
+-You can create projects, add tasks with deadlines, and track your progress step by step!
 
-🚀 Features
-Add a project name
-Add tasks with title and deadline
+Features
+-Add a project name
+-Add tasks with title and deadline
 Track task status: To Do, In Progress, Done
 Step-by-step workflow: first project → then tasks
 Frontend and backend separated for easier work
