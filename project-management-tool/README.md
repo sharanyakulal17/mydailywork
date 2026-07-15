@@ -3,14 +3,15 @@
 - Create projects, add tasks with deadlines, and track your progress step by step
 
 # Features
--Add a project name
--Add tasks with title and deadline
-Track task status: To Do, In Progress, Done
-Step-by-step workflow: first project → then tasks
-Frontend and backend separated for easier work
-Works locally on your computer
+- Create a new project by entering a project name.
+- Add tasks with a title and deadline.
+- Update task status as **To Do**, **In Progress**, or **Done**.
+- Follow a step-by-step workflow from project creation to task management.
+- Separate frontend and backend for better project organization.
+- Run the application locally on your computer.
 
-📂 Project Structure
+#Project Structure
+```text
 project-management-tool/
 ├── backend/        # Node.js + Express + MongoDB APIs
 ├── frontend/       # React app
