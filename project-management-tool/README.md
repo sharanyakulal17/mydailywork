@@ -16,6 +16,7 @@ project-management-tool/
 ├── backend/        # Node.js + Express + MongoDB APIs
 ├── frontend/       # React app
 └── README.md       # This file
+```
 
 # Installation & Running
 ```text
