@@ -22,18 +22,19 @@ project-management-tool/
 Clone the repo
 git clone https://github.com/sharanyakulal17/mydailywork.git
 cd mydailywork/project-management-tool
+```
 
 # Install dependencies
 ```bash
 # Backend
 cd backend
 npm install
-
+```
 # Frontend
 ```bash
 cd ../frontend
 npm install
-
+```
 # Start MongoDB
 ```bash
 Make sure MongoDB is running, example for Windows:
