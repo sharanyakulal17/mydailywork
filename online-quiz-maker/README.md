@@ -1,4 +1,4 @@
-# Online Quiz Maker 📝
+# Online Quiz Maker
 
 This is a simple Online Quiz Maker project built using HTML, CSS, and JavaScript.
 
