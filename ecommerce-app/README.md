@@ -63,4 +63,5 @@ Admin Dashboard
 Product Filters
 Order History
 
-Author Sharanya Kulal GitHub: https://github.com/sharanyakulal17
+## Credits
+This project is based on an open-source project from GitHub and is used for learning and practice purposes.
