@@ -40,7 +40,7 @@ npm install
 ```bash
 Make sure MongoDB is running, example for Windows:
 "C:\Program Files\MongoDB\Server\8.2\bin\mongod.exe" --dbpath "C:\Users\Sharanya\Documents\mongo-data"
-```text
+
 Start backend server
 cd ../backend
 node server.js
@@ -50,16 +50,20 @@ Start frontend app
 cd ../frontend
 npm start
 Frontend runs at: http://localhost:3000
-```
-# How to Use
-Open the app in your browser.
-Step 1: Enter your project name → Click Next
-Step 2: Add tasks by entering:
-Task Title
-Task Deadline
-Then click Add Task
-Track tasks using the status dropdown: To Do, In Progress, Done
-Click Back to return to project name input (previous input will be cleared)
+
+##  How to Use
+1. Open the application in your web browser.
+2. Enter the **Project Name**.
+3. Click the **Next** button.
+4. Enter the **Task Title**.
+5. Select the **Task Deadline**.
+6. Click **Add Task** to add the task to the project.
+7. Update the task status using the dropdown:
+   - **To Do**
+   - **In Progress**
+   - **Done**
+8. Repeat the process to add more tasks
+9. Click **Back** to return to the project name page. (The previous project name will be cleared.)
 
 # Tech Stack
 Frontend: React, HTML, CSS, JavaScript
