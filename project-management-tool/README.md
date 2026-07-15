@@ -2,7 +2,7 @@
 - A fun and simple project management app built with **React**, **Node.js**, and **MongoDB**.
 - Create projects, add tasks with deadlines, and track your progress step by step
 
-Features
+# Features
 -Add a project name
 -Add tasks with title and deadline
 Track task status: To Do, In Progress, Done
