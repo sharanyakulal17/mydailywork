@@ -62,6 +62,6 @@ Payment Gateway Integration
 Admin Dashboard
 Product Filters
 Order History
-
+```
 ## Credits
 This project is based on an open-source project from GitHub and is used for learning and practice purposes.
