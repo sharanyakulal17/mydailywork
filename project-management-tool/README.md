@@ -10,28 +10,32 @@
 - Separate frontend and backend for better project organization.
 - Run the application locally on your computer.
 
-#Project Structure
+# Project Structure
 ```text
 project-management-tool/
 ├── backend/        # Node.js + Express + MongoDB APIs
 ├── frontend/       # React app
 └── README.md       # This file
 
-⚡ Installation & Running
+# Installation & Running
+```text
 Clone the repo
 git clone https://github.com/sharanyakulal17/mydailywork.git
 cd mydailywork/project-management-tool
 
-Install dependencies
+# Install dependencies
+```bash
 # Backend
 cd backend
 npm install
 
 # Frontend
+```bash
 cd ../frontend
 npm install
 
-Start MongoDB
+# Start MongoDB
+```bash
 Make sure MongoDB is running, example for Windows:
 "C:\Program Files\MongoDB\Server\8.2\bin\mongod.exe" --dbpath "C:\Users\Sharanya\Documents\mongo-data"
 
