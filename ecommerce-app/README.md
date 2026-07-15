@@ -28,11 +28,13 @@ A full-stack e-commerce web application built using **React**, **Node.js**, **Ex
 - bcrypt
 
 ## Project Structure
+```text
 ecommerce-app/
 │
 ├── frontend/      # React frontend
 ├── backend/       # Node.js + Express backend
 └── README.md
+```
 
 ## How to Run the Project
 
