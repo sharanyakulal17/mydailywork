@@ -39,10 +39,11 @@ ecommerce-app/
 ## How to Run the Project
 
 ### Backend
--cd backend
--npm install
--npm start
--Runs on: http://localhost:5000
+```bash
+cd backend
+npm install
+npm start
+Runs on: http://localhost:5000
 
 Frontend
 cd frontend
