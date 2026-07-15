@@ -20,5 +20,5 @@ This is a simple Online Quiz Maker project built using HTML, CSS, and JavaScript
 2. Open `index.html` in a browser
 3. Create or take a quiz
 
-# Credits
+### Credits
 This project is based on an open-source project from GitHub and is used for learning and practice purposes.
