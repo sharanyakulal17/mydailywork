@@ -30,9 +30,8 @@ cd mydailywork/project-management-tool
 # Backend
 cd backend
 npm install
-```
+
 # Frontend
-```bash
 cd ../frontend
 npm install
 ```
@@ -50,6 +49,7 @@ Start frontend app
 cd ../frontend
 npm start
 Frontend runs at: http://localhost:3000
+```
 
 ##  How to Use
 1. Open the application in your web browser.
