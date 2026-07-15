@@ -66,9 +66,8 @@ Frontend runs at: http://localhost:3000
 9. Click **Back** to return to the project name page. (The previous project name will be cleared.)
 
 # Tech Stack
-Frontend: React, HTML, CSS, JavaScript
-Backend: Node.js, Express
-Database: MongoDB
-Optional Deployment: Netlify (frontend), Heroku (backend)
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
 
 Author Sharanya Kulal GitHub: https://github.com/sharanyakulal17
